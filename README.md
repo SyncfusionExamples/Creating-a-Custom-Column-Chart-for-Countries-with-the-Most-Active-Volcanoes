@@ -2,7 +2,7 @@
 Column charts are useful for displaying changes in data over a specific period of time or for illustrating comparisons between different items.
 
 ## Customization :
-By default, column charts plot discrete rectangles for the given values. We can customize the shape of the series as desired using the CustomTemplate property.
+By default, column charts plot discrete rectangles for the given values. We can customize the shape of the series as desired using the [CustomTemplate](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ColumnSeries.html#Syncfusion_UI_Xaml_Charts_ColumnSeries_CustomTemplate) property.
 
 We can customize the color, border, and width of the doughnut segment using the [Palette](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartSeriesBase.html#Syncfusion_UI_Xaml_Charts_ChartSeriesBase_Palette), [Stroke](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartSeries.html#Syncfusion_UI_Xaml_Charts_ChartSeries_Stroke), and [StrokeThickness](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartSeries.html#Syncfusion_UI_Xaml_Charts_ChartSeries_StrokeThickness) properties respectively. 
 
