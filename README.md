@@ -16,4 +16,4 @@ Volcanoes erupt, spewing molten rock, ash, gases, and other substances from the 
 ![Demo](https://github.com/SyncfusionExamples/Creating-a-Column-Chart-for-Countries-with-the-Most-Active-Volcanoes/assets/103025761/8469fdb0-84d1-4f8f-b46b-5368229a6aa2)
 
 
- For a step-by-step procedure, refer to the Most Active Volcanoes since 1950 Blog.
+ For a step-by-step procedure, refer to the Most Active Volcanoes Blog.
