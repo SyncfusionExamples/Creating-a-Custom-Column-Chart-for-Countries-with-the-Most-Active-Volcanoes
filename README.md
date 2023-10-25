@@ -13,7 +13,7 @@ This article explains how to visualize the most active volcanoes in different co
 
 Volcanoes erupt, spewing molten rock, ash, gases, and other substances from the Earth's crust. Their intensity varies, ranging from mild to devastating. They play a significant role in shaping the Earth's landscape and can have both positive and negative effects on the environment.
 
-![Demo](https://github.com/SyncfusionExamples/Creating-a-Column-Chart-for-Countries-with-the-Most-Active-Volcanoes/assets/103025761/8469fdb0-84d1-4f8f-b46b-5368229a6aa2)
+![Demo](https://github.com/SyncfusionExamples/Creating-a-Custom-Column-Chart-for-Countries-with-the-Most-Active-Volcanoes/assets/103025761/fc20271a-226c-45c4-b448-fdf01507e8f5)
 
 
- For a step-by-step procedure, refer to the Most Active Volcanoes Blog.
+ For a step-by-step procedure, refer to the [Most Active Volcanoes Blog](https://www.syncfusion.com/blogs/post/wpf-column-chart-active-volcano.aspx).
